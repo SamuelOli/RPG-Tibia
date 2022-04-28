@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e1db8230f54fa34c8c70eb71225c7ca, type: 3}
+  m_Name: Warrior
+  m_EditorClassIdentifier: 
+  heroName: Warrior
+  heroIcon: {fileID: 0}
+  heroType: 2
+  heroAttributes:
+    listAttributes:
+    - MyAttribute: {fileID: 11400000, guid: c65632248d5daf840b9ce7a9fd938529, type: 2}
+      Value: 8000
+    - MyAttribute: {fileID: 11400000, guid: 04e91f282b1765c43aff7b101f5ddce0, type: 2}
+      Value: 70
+    - MyAttribute: {fileID: 11400000, guid: 2ca8f6f7a5ba5f04abfa7417f8a08be2, type: 2}
+      Value: 80
+    - MyAttribute: {fileID: 11400000, guid: 7e8402ec6fad47e49a24a8ba311e5a31, type: 2}
+      Value: 0.1
+    - MyAttribute: {fileID: 11400000, guid: cba6d85e97033fd4db960532ee38a4d6, type: 2}
+      Value: 200
+    - MyAttribute: {fileID: 11400000, guid: f0fdeb17173dfc3479336eba7f548045, type: 2}
+      Value: 300
+    - MyAttribute: {fileID: 11400000, guid: 867e7be28ce501d4a9f5070a6cffc57a, type: 2}
+      Value: 1
+    - MyAttribute: {fileID: 11400000, guid: fd5956dd88c2e524c8fed114bf77fecf, type: 2}
+      Value: 10
+    - MyAttribute: {fileID: 11400000, guid: 562c7e22ad5a5d44ca287178cbc29835, type: 2}
+      Value: 100
+    - MyAttribute: {fileID: 11400000, guid: 8d3e522072908c84395ff9d895a13557, type: 2}
+      Value: 3
+    - MyAttribute: {fileID: 11400000, guid: 7cd25a2033de10f439568678f20b48a2, type: 2}
+      Value: 500
+    - MyAttribute: {fileID: 11400000, guid: ff83c6ef243b536449483e77d6a10b13, type: 2}
+      Value: 0.5
+    - MyAttribute: {fileID: 11400000, guid: 7e8402ec6fad47e49a24a8ba311e5a31, type: 2}
+      Value: 0.5
+    - MyAttribute: {fileID: 11400000, guid: c1e05d83f97a4c342b751439beac54fe, type: 2}
+      Value: 3000
+    - MyAttribute: {fileID: 11400000, guid: 682b1670866f9934689e18c31e7d02d5, type: 2}
+      Value: 50
+  heroSkills:
+  - {fileID: 11400000, guid: a2ec7f9a0dd60c94eb54fae7b46851b3, type: 2}
+  - {fileID: 11400000, guid: df85bea7a83c1a84292f3e8de05c7a12, type: 2}
+  - {fileID: 11400000, guid: ce375cb1e9399554eabc16492b409a0e, type: 2}

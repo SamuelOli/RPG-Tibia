@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 567a5a27401ceb847a84c71aaea60b90, type: 3}
+  m_Name: MagicPenetration
+  m_EditorClassIdentifier: 
+  name: MagicPenetration
+  lvl: 0
+  firstPrice: 1
+  priceScale: 0
+  priceScalePercent: 1
+  talentTreeIcon: {fileID: 0}
+  attribute:
+    MyAttribute: {fileID: 11400000, guid: 682b1670866f9934689e18c31e7d02d5, type: 2}
+    Value: 2
+    ValueMultiplier: 0
+  isScalable: 0
+  valueScale: 1
+  valueMultiplierScale: 1
